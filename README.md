@@ -19,12 +19,11 @@ CSE student at REVA University. I build real software — AI tools, full-stack a
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **[AirDrawer](https://air-drawer.vercel.app)** | Draw in mid-air using webcam hand tracking via MediaPipe | `React` `Three.js` `MediaPipe Hands` | [Demo](https://air-drawer.vercel.app) · [Code](https://github.com/YUVA-2329/AirDrawer) |
-| **[Smart AI Portfolio](https://medevsmaker.vercel.app)** | Developer portfolio with LangChain + OpenAI RAG chatbot | `Next.js` `LangChain` `Supabase` `OpenAI` | [Demo](https://medevsmaker.vercel.app) · [Code](https://github.com/YUVA-2329/smart-portfolio) |
-| **[SIH 2026 Prototype](https://sih-2026-mocha-phi.vercel.app)** | AI-driven PDF parsing & insight generation — Smart India Hackathon | `React` `Node.js` `Multer` `Google GenAI` | [Demo](https://sih-2026-mocha-phi.vercel.app) · [Code](https://github.com/YUVA-2329/SIH2026) |
-| **[Synergy AI](https://synergy-ai-weld.vercel.app)** | Full-stack AI conversational platform with real-time processing | `React` `TypeScript` `Node.js` `Google GenAI` | [Demo](https://synergy-ai-weld.vercel.app) · [Code](https://github.com/YUVA-2329/synergy-ai) |
 | **[UNDERGROUNDZ](https://undergroundz.vercel.app)** | Premium e-commerce platform with 3D elements & Razorpay payments | `React` `Three.js` `Supabase` `Razorpay` | [Demo](https://undergroundz.vercel.app) · [Code](https://github.com/YUVA-2329/UNDERGROUNDZ) |
-| **[Cafe Vantara](https://cafevantara.vercel.app)** | Cafe management system with conversational AI recommendations | `React` `Node.js` `Express` `Google GenAI` | [Demo](https://cafevantara.vercel.app) · [Code](https://github.com/YUVA-2329/cafevantara) |
+| **[Synergy AI](https://synergy-ai-weld.vercel.app)** | Full-stack AI conversational platform with real-time processing | `React` `TypeScript` `Node.js` `Google GenAI` | [Demo](https://synergy-ai-weld.vercel.app) · [Code](https://github.com/YUVA-2329/synergy-ai) |
+| **[SIH 2026 Prototype](https://sih-2026-mocha-phi.vercel.app)** | AI-driven PDF parsing & insight generation — Smart India Hackathon | `React` `Node.js` `Multer` `Google GenAI` | [Demo](https://sih-2026-mocha-phi.vercel.app) · [Code](https://github.com/YUVA-2329/SIH2026) |
+| **[AirDrawer](https://air-drawer.vercel.app)** | Draw in mid-air using webcam hand tracking via MediaPipe | `React` `Three.js` `MediaPipe Hands` | [Demo](https://air-drawer.vercel.app) · [Code](https://github.com/YUVA-2329/AirDrawer) |
+| **[Iron Man UI](https://iron-man-jet.vercel.app)** | Cinematic Next.js experience with advanced scroll animations via Lenis | `Next.js` `Framer Motion` `Lenis` `Tailwind CSS` | [Demo](https://iron-man-jet.vercel.app) · [Code](https://github.com/YUVA-2329/iron-man) |
 
 ---
 
